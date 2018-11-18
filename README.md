@@ -6,7 +6,7 @@ I'm currently looking for my next challenge within the UK's tech scene, to build
 
 ## Skills
 
-* Account and Staff Management - 
+* <b>Account and Staff Management</b> - 
 *
 
 Hub Management - Global & EMEA
