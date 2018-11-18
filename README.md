@@ -1,8 +1,24 @@
-## Your Name
+## Adam Lodowski
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A junior full-stack developer with four years experience working with the world's most innovative technology brands in a non-technical role. I combine a strong background in communication and team management, with the technical skills and passion for technology to create code that is clean, efficient and adaptable.
+
+I'm currently looking for my next challenge within the UK's tech scene, to build my skills in full-stack development and help create the next generation of tech for good. 
 
 ## Skills
+
+* Account and Staff Management - 
+*
+
+Hub Management - Global & EMEA
+- Event Organisation - up to 1,200 attendees
+- 
+- Budgeting & Hours Projection
+- Large Scale Creative Campaigns
+- Social Campaigns - organic & paid
+- Strong Media Relations - esp. consumer tech press
+- Owned Media – budgeting and analytics
+- Global Coordination
+- International Review Programs
 
 #### This Skill
 
