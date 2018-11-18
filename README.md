@@ -6,61 +6,51 @@ I'm currently looking for my next challenge within the UK's tech scene, to build
 
 ## Skills
 
-* <b>Account and Staff Management</b> - 
-*
-
-Hub Management - Global & EMEA
-- Event Organisation - up to 1,200 attendees
-- 
-- Budgeting & Hours Projection
-- Large Scale Creative Campaigns
-- Social Campaigns - organic & paid
-- Strong Media Relations - esp. consumer tech press
-- Owned Media – budgeting and analytics
-- Global Coordination
-- International Review Programs
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* <b>Communications</b> - Working in the PR industry requires, unsurprisingly, exceptional communication skills, both written and spoken, when dealing with colleagues, clients, and journalists. When coding this gives me excellent attention to detail and the ability to explain a brief clearly and concisely.
+* <b>Account and Staff Management</b> - Experience working within and leading diverse teams to achieve high targets. Examples include driving Sony Professional Solutions Europe's PR efforts in the UK to achieve monthly coverage targets for over two years and managing ForeScout's social media campaigns globally with over a 2000% increase on engagement.
+* <b>Global coordination</b> - Worked as part of a global network of agencies to coordinate campaigns across territories including localising content to suit regional requirements for clients such as Huawei and Alteryx as well as maintaining Sony and Extreme Network's network of agencies across EMEA.
+* <b>Logical and Creative</b> - With a degree in English Literature combined with experience in technology and coding, I bring both creativity and logic to the workplace. Able to blend both disciplines to create solutions which go beyond what is expected, while still meeting the brief.
+* <b>Time Management</b> - Having spent four years within a high-pressured agency environment, typically balancing 6-8 accounts & projects at one time, I am used to managing my time. I bring a strong understanding of the importance of meeting deadlines, balancing priorities and delivering exceptional work free from errors.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2018 - March 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A selective intensive 16 coding bootcamp that focuses on Test Driven Development, through pair programming and agile working.
+* A self starter who chose to progress from an existing career into an intensive coding environment in order to learn the skills required to become a developer
+* Passionate about coding and technology. Having worked in a non-technical role with leading technology companies, took the initiative to attend makers and pursue a passion for software development.
+* <b>TECHNICAL SKILLS TO GO HERE</b> - Sample for reference:
+  - OOP, TDD, MVC, DDD
+  - Agile/XP
+  - Ruby, Rails, JavaScript
+  - RSpec, Jasmine
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Surrey University (September 2010 to July 2014)
 
-#### Your University / College (start_date to end_date)
+2:1 in English Literature from the University of Surrey
+* Including a year in industry placed at Wigwam PR (Achieved a 1st)
+* Active member of various sporting groups and societies, including fundraiser of the Surrey Angels Cheerleading Squad as well as head of marketing and programme manager at Stag Radio.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Other education:
 
-#### Any other qualifications
+CIM Certificate in Digital Marketing from the Oxford College of Marketing - Distinction
+
+A-Levels in Chemistry, English Literature and Pre-U History. Also 10 GCSE’s Grade A-A* including English, Maths and Triple Science
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+<b>Account Manager at Marlin PR (December 2016 - November 2018)</b>
+* A boutique PR and design agency. Worked on global consumer and B2B brands such as CrowdStrike, Slack, Prezi and Sony.
+* Managing a team of account executives and senior account executives.
+
+<b>Senior Client Executive at Racepoint Global (July 2015 - November 2016)</b>
+* Global PR agency with offices in the US, UK & Asia.
+* Agency of Record for global brands such as Huawei, ARM, Extreme Networks and Mozilla Firefox.
+
+<b>PR and Marketing Account Executive at C8 Consulting (November 2014 - July 2015)</b>
+* Specialist technology PR and marketing firm located in Central Reading
+* Notable clients included: Cisco, OutSystems, Panasonic and We Are Experience
+	
+<b>University Placement at Wigwam PR (August 2012 – August 2013)</b>
+* Year long work placement with a PR firm in Guildford at 3 industry leading company directors
+* Daily duties covered most parts of PR and communications across consumer, finance and culture
