@@ -1,6 +1,6 @@
 ## Adam Lodowski
 
-A junior full-stack developer with four years experience working with some the world's most innovative technology brands. I combine a strong background in communication and team management, with technical skills and a passion for technology to create code that is clean, efficient and adaptable.
+A junior full-stack developer with four years experience working with some the world's most innovative technology brands in a non-technical role. I combine a strong background in communication and team management, with technical skills and a passion for technology to create code that is clean, efficient and adaptable.
 
 I'm currently looking for my next challenge within the UK's tech scene, to build my skills in full-stack development and help create the next generation of tech for good. 
 
