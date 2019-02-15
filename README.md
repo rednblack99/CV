@@ -6,10 +6,11 @@ I'm currently looking for my next challenge within the UK's tech scene, to build
 
 ## Skills
 
-* <b>Communications</b> - Working in the PR industry requires, unsurprisingly, exceptional communication skills, both written and spoken, when dealing with colleagues, clients, and journalists. When coding this gives me excellent attention to detail and the ability to explain a brief clearly and concisely.
-* <b>Account and Staff Management</b> - Experience working within and leading diverse teams to achieve high targets. Examples include driving Sony Professional Solutions Europe's PR efforts in the UK to achieve monthly coverage targets for over two years, and managing ForeScout's social media campaigns globally with over a 2000% increase on engagement.
-* <b>Global coordination</b> - Worked as part of a global network of agencies to coordinate campaigns across territories including localising content to suit regional requirements for clients such as Huawei and Alteryx as well as maintaining Sony and Extreme Network's network of agencies across EMEA.
+* <b>Agile Development</b> - Experience using agile methodologies for project work, developing user requirements incrementally in short sprints.
+* <b>Test Driven Development</b> - Adept with taking a test driven approach to writing code. Good knowledge of using TDD and using both existing frameworks such as RSpec and Jasmine. I have also built my own testing framework as well as testing using a language's inherent logic.
+* <b>Communications</b> - I bring exceptional communication skills, both written and spoken, when dealing with colleagues, clients and external stakeholders. When coding this gives me excellent attention to detail and the ability to explain a brief clearly and concisely.
 * <b>Logical and Creative</b> - With a degree in English Literature combined with experience in technology and coding, I bring both creativity and logic to the workplace. Able to blend both disciplines to create solutions which go beyond what is expected, while still meeting the brief.
+* <b>Account and Staff Management</b> - Experience working within and leading diverse teams to achieve high targets. Examples include driving Sony Professional Solutions Europe's PR efforts in the UK to achieve monthly coverage targets for over two years, and managing ForeScout's social media campaigns globally with over a 2000% increase on engagement.
 * <b>Time Management</b> - Having spent four years within a high-pressured agency environment, typically balancing 6-8 accounts & projects at one time, I am used to closely managing my time. I bring a strong understanding of the importance of meeting deadlines, balancing priorities and delivering exceptional work free from errors.
 
 ## Education
@@ -18,12 +19,14 @@ I'm currently looking for my next challenge within the UK's tech scene, to build
 
 A selective intensive 16 coding bootcamp that focuses on Test Driven Development, through pair programming and agile working.
 * A self starter who chose to progress from an existing career into an intensive coding environment in order to learn the skills required to become a developer.
-* Passionate about coding and technology. Having worked in a non-technical role with leading technology companies, took the initiative to attend makers and pursue a passion for software development.
-* <b>TECHNICAL SKILLS TO GO HERE</b> - Sample for reference:
-  - OOP, TDD, MVC, DDD
-  - Agile/XP
+* Passionate about coding and technology. Having worked in a non-technical role with leading technology companies, I took the initiative to attend makers and pursue a passion for software development.
+* Technical skills:
   - Ruby, Rails, JavaScript
-  - RSpec, Jasmine
+  - Test Driven Development
+    - RSpec, Jasmine
+  - Agile Development and Extreme Programming
+  - OOP, MVC and domain infrastructure
+  - Travis and Heroku
 
 #### Surrey University (September 2010 to July 2014)
 
