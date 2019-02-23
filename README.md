@@ -13,6 +13,15 @@ A junior full-stack developer with four years experience working with some the w
 
 I'm currently looking for my next challenge within the UK's tech scene, to build my skills in full-stack development and help create the next generation of tech for good. 
 
+# Projects
+
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [Alexa Quiz](https://github.com/learningtocode101/alexa_node_js_quiz) | Inspired to challenge ourselves, my team created an Alexa Skill for our final project in just two weeks. We created an interactive Quiz App that the user can play on any Alexa enabled device. | 2 weeks | NodeJS, JSON, HTML/CSS, AWS | Mocha, Bespoken, Alexa-Testing-Framework, TravisCI |
+| [Catbook](https://github.com/learningtocode101/acebook-team-cats) | Inspired by our team-name, we created a Facebook clone designed for updates on our furry friends. Our focus was on learning Ruby on Rails as well as continuous CI and deployment.
+| 2 weeks | Ruby on Rails, HTML/CSS, PostgreSQL, Heroku | RSpec, Capybara, TravisCI, CodeClimate, Selenium WebDriver |
+| [Singletons Dating](https://github.com/rednblack99/singletons_app) | Singletons Dating is a web app with complete authentication functionality that our team built in just three days from conception to presentation. | 3 Days |HTML/CSS, Ruby, DataMapper, Sinatra | RSPec |
+
 ## Skills
 
 * <b>Agile Development</b> - Experience using agile methodologies for project work, developing user requirements incrementally in short sprints.
