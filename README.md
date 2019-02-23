@@ -1,4 +1,13 @@
-## Adam Lodowski
+<h1 align="center">Adam Lodowski</h1>
+
+<p align="center">
+<a href="https://twitter.com/adamlodowski">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@adamlodowski">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/adam-lodowski-3a469050/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 A junior full-stack developer with four years experience working with some the world's most innovative technology brands in a non-technical role. I combine a strong background in communication and team management, with technical skills and a passion for technology to create code that is clean, efficient and adaptable.
 
