@@ -72,5 +72,5 @@ A-Levels in Chemistry, English Literature and Pre-U History. Also 10 GCSE’s Gr
 * Notable clients included: Cisco, OutSystems, Panasonic and We Are Experience.
 	
 <b>University Placement at Wigwam PR (August 2012 – August 2013)</b>
-* Year long work placement with a PR firm in Guildford suppirting 3 industry leading company directors.
+* Year long work placement with a PR firm in Guildford supporting 3 industry leading company directors.
 * Daily duties covered most parts of PR and communications across consumer, finance and culture.
